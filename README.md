@@ -1,14 +1,12 @@
 # reactnexthook
 ## _A Collection Of Custom Hooks_
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 # Welcome to the reactnexthook. 
 #### This library provides a collection of useful custom hooks for enhancing your React applications. These hooks encapsulate common patterns and offer reusable solutions to common problems.
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 
 ## 📦 Installation
