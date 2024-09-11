@@ -85,8 +85,10 @@ export default App;
 
 ## Parameters
 
-- `value` (any): The value to debounce.
-- `delay` (number): The debounce delay in milliseconds.
+- `Parameter` (integer)	Default-0	Default value that is returned (optional)
+- `offsetPx` (integer)	Default-0	Set offset (optional)
+- `sectionElementRefs` [Ref]	Default-[] Array of Refs to observe (e.g. via React refs)
+- `scrollingElement`	Ref	Default-Window	Target of the scrolling (e.g. via React refs)) (optional)
 
 ## Return Value
 

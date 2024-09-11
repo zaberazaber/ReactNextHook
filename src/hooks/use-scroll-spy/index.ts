@@ -10,13 +10,13 @@ export interface useScrollSpyParams {
   throttleMs?: number;
   scrollingElement?: React.RefObject<HTMLElement>;
 }
-export const useScrollSpy = ({
+export function useScrollSpy({
   activeSectionDefault = 0,
   offsetPx = 0,
   scrollingElement,
   sectionElementRefs = [],
   throttleMs = 100,
-}: useScrollSpyParams): number | undefined => {
+}: useScrollSpyParams): number | undefined {
   const [activeSection, setActiveSection] = useState(activeSectionDefault);
 
   const handle = throttle(throttleMs, () => {
@@ -50,3 +50,4 @@ export const useScrollSpy = ({
   }, [sectionElementRefs, offsetPx, scrollingElement, handle]);
   return activeSection;
 };
+

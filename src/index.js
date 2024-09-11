@@ -26,4 +26,5 @@ export { useEventCallback } from './hooks/use-event-callback/index.js';
 export { useEventListener } from './hooks/use-event-listner/index.js';
 export { useFetch } from './hooks/use-fetch/index.js';
 export { useIntersectionObserver } from './hooks/use-intersection-observer/index.js';
-export { usescrollspy } from './hooks/use-scroll-spy/index.js';
+export { useScrollSpy } from './hooks/use-scroll-spy/index.js';
+export { useValueAfter } from './hooks/use-value-after/index.js';
