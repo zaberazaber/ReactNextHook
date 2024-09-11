@@ -1,4 +1,4 @@
-# useWindowSize
+# useOnClickOutside
 
 A hook to detect clicks outside a specific element.
 Detects clicks outside a specific element.

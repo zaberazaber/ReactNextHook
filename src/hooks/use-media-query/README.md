@@ -1,4 +1,4 @@
-# useWindowSize
+# useMediaQuery
 
 A hook to handle media queries and responsiveness.
 

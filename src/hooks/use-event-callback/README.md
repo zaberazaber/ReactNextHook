@@ -1,4 +1,4 @@
-# useWindowSize
+# useEventCallback
 
 A React hook that listens to changes in the window size and provides the current width and height.
 Ensures that a callback function is stable and not recreated on every render.

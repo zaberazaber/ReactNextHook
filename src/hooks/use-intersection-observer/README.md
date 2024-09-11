@@ -1,4 +1,4 @@
-# useWindowSize
+# useIntersectionObserver
 
 Monitors the visibility of an element.
 

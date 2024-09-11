@@ -1,4 +1,4 @@
-# useWindowSize
+# useFetch
 
 A hook for fetching data from an API with error handling and loading state.
 Fetches data from an API with error handling and loading state.

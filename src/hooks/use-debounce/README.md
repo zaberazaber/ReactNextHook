@@ -1,4 +1,4 @@
-# useWindowSize
+# useDebounce
 
 A hook to debounce a value, delaying updates until after a specified delay period.
 Debounces a value, delaying updates until after a specified delay period.

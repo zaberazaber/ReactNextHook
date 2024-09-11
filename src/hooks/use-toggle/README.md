@@ -1,4 +1,4 @@
-# useWindowSize
+# useToggle
 
 A simple hook to manage a boolean state for toggling.
 Manages a boolean state for toggling.

@@ -1,4 +1,4 @@
-# useObjectFit
+# useLocalStorage
 
 Syncs state with localStorage, allowing data persistence across page reloads.
 

@@ -1,4 +1,4 @@
-# useWindowSize
+# usePrevious
 
 A hook to keep track of the previous value of a state or prop.
 

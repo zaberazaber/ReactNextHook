@@ -1,4 +1,4 @@
-# useWindowSize
+# useEventListener
 
 A hook to add and remove event listeners.
 
