@@ -8,7 +8,7 @@ This hook comes in handy when testing edge cases for a React component by genera
 ```jsx
 import React from 'react'
 import ReactDOM from 'react-dom'
-import { useValueAfter } from 'use-value-after'
+import { useValueAfter } from 'reactnexthook'
 
 const TestComponent = (props) => {
   return (

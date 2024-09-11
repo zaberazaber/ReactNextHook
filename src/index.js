@@ -27,4 +27,5 @@ export { useEventListener } from './hooks/use-event-listner/index.js';
 export { useFetch } from './hooks/use-fetch/index.js';
 export { useIntersectionObserver } from './hooks/use-intersection-observer/index.js';
 export { useValueAfter } from './hooks/use-value-after/index.ts';
-export { useScrollSpy } from './hooks/use-scroll-spy/index.ts'
+export { useScrollSpy } from './hooks/use-scroll-spy/index.ts';
+export { useWindowWidthBreakpoints } from './hooks/use-window-width-breakpoint/index.ts'

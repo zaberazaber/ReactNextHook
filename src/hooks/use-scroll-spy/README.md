@@ -10,7 +10,7 @@ import React, { useRef } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-import useScrollSpy from "react-use-scrollspy";
+import useScrollSpy from "reactnexthook";
 
 const App = () => {
   const sectionRefs = [useRef(null), useRef(null), useRef(null)];
